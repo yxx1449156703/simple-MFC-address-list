@@ -1,0 +1,31 @@
+﻿生成启动时间为 2017/12/21 19:44:20。
+     1>项目“D:\vs2012\项目\yooo\yooo\yooo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\yooo.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\yooo.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp Dialog1.cpp MainFrm.cpp yooo.cpp yoooDoc.cpp yoooView.cpp
+         ChildFrm.cpp
+         Dialog1.cpp
+         MainFrm.cpp
+         yooo.cpp
+         yoooDoc.cpp
+         yoooView.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\yooo.res" yooo.rc 
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2012\项目\yooo\Release\yooo.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\vs2012\项目\yooo\Release\yooo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2012\项目\yooo\Release\yooo.lib" /MACHINE:X86 /SAFESEH Release\yooo.res
+         Release\ChildFrm.obj
+         Release\Dialog1.obj
+         Release\MainFrm.obj
+         Release\stdafx.obj
+         Release\yooo.obj
+         Release\yoooDoc.obj
+         Release\yoooView.obj
+         正在生成代码
+         已完成代码的生成
+         yooo.vcxproj -> D:\vs2012\项目\yooo\Release\yooo.exe
+     1>已完成生成项目“D:\vs2012\项目\yooo\yooo\yooo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.50
